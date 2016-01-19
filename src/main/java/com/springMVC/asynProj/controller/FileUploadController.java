@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.springMVC.asynProj;
+package com.springMVC.asynProj.controller;
 
 import java.io.BufferedOutputStream;
 import java.io.File;
