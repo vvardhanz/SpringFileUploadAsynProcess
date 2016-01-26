@@ -25,6 +25,31 @@
                     </div>
                 </div>
             </div>
+            
+            
+<div class="checkboxSet"> 
+
+	<input type="checkbox" id="box20" name="box[]" value="20" checked="checked"> <label for="box20">MooTools FTW!</label> 
+
+	<input type="checkbox" id="box21" name="box[]" value="21" checked="checked"> <label for="box21">Forge</label> 
+
+	<input type="checkbox" id="box22" name="box[]" value="22" checked="checked"> <label for="box22">GitHub</label> 
+
+	<input type="checkbox" id="box23" name="box[]" value="23" checked="checked"> <label for="box23">FireFox</label> 
+
+	<input type="checkbox" id="box24" name="box[]" value="24"> <label for="box24">Safari</label> 
+
+	<input type="checkbox" id="box25" name="box[]" value="25" checked="checked"> <label for="box25">Google Chrome</label> 
+
+	<input type="checkbox" id="box26" name="box[]" value="26" checked="checked"> <label for="box26">Opera</label> 
+
+	<input type="checkbox" id="box27" name="box[]" value="27"> <label for="box27">IE 6</label> 
+
+	<input type="checkbox" id="box28" name="box[]" value="28"> <label for="box28">IE 7</label> 
+
+	<input type="checkbox" id="box29" name="box[]" value="29"> <label for="box29">IE 8</label> 
+
+</div> 
      
             <div class="row">
                 <div class="form-actions floatRight">

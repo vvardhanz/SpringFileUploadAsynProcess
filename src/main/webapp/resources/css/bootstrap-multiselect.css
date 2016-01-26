@@ -1,0 +1,29 @@
+.multiselect - container {
+    position: absolute;list - style - type: none;margin: 0;padding: 0
+}.multiselect - container.input - group {
+    margin: 5 px
+}.multiselect - container > li {
+    padding: 0
+}.multiselect - container > li > a.multiselect - all label {
+    font - weight: 700
+}.multiselect - container > li.multiselect - group label {
+    margin: 0;padding: 3 px 20 px 3 px 20 px;height: 100 % ;font - weight: 700
+}.multiselect - container > li.multiselect - group - clickable label {
+    cursor: pointer
+}.multiselect - container > li > a {
+    padding: 0
+}.multiselect - container > li > a > label {
+    margin: 0;height: 100 % ;cursor: pointer;font - weight: 400;padding: 3 px 20 px 3 px 40 px
+}.multiselect - container > li > a > label.radio, .multiselect - container > li > a > label.checkbox {
+    margin: 0
+}.multiselect - container > li > a > label > input[type = checkbox] {
+    margin - bottom: 5 px
+}.btn - group > .btn - group: nth - child(2) > .multiselect.btn {
+    border - top - left - radius: 4 px;
+    border - bottom - left - radius: 4 px
+}.form - inline.multiselect - container label.checkbox, .form - inline.multiselect - container label.radio {
+    padding: 3 px 20 px 3 px 40 px
+}.form - inline.multiselect - container li a label.checkbox input[type = checkbox], .form - inline.multiselect - container li a label.radio input[type = radio] {
+    margin - left: -20 px;
+    margin - right: 0
+}
